@@ -1,0 +1,22 @@
+#readme {
+  padding: 20px;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: black;
+}
+
+.body {
+  line-height: 20px;
+  padding-left: 20px;
+  color: grey;
+}
+
+#readme > div {
+  padding-bottom: 20px;
+  font-size: 14px;
+}

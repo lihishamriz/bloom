@@ -1,0 +1,3 @@
+{
+  "users": [{ "email": "admin", "password": "admin", "club": false }]
+}

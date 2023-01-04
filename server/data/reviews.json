@@ -1,0 +1,54 @@
+{
+  "reviews": [
+    {
+      "stars": 5,
+      "comment": "Most amazing flowers!",
+      "date": "2022-09-01T22:28:59.982Z"
+    },
+    {
+      "stars": 4,
+      "comment": "Always greatly appreciated and arrive on time!",
+      "date": "2022-08-15T10:12:00.000Z"
+    },
+    {
+      "stars": 5,
+      "comment": "Beautiful flowers every time. I have had many bunches from here and they never fail.",
+      "date": "2022-08-20T18:30:00.000Z"
+    },
+    {
+      "stars": 3,
+      "comment": "Nice flowers, but high pricing.",
+      "date": "2022-08-12T14:45:00.000Z"
+    },
+    {
+      "stars": 5,
+      "comment": "Highly recommended to anyone who enjoys colorful and vivid flowers!",
+      "date": "2022-08-10T14:45:00.000Z"
+    },
+    {
+      "stars": 1,
+      "comment": "Two lots of sunflowers ordered last week, one for friends' birthday and one for my anniversary, one only lasted the weekend and the other only 3 days? Expected longer as sunflowers are sturdier than most flowers. Not very good value for money.",
+      "date": "2022-08-07T20:02:00.000Z"
+    },
+    {
+      "stars": 4,
+      "comment": "I’ve used loads of florist websites over the years and had an awful time with all but one of them: Bloom. Time and time again they deliver great quality flowers that last longer than any others I’ve bought and they’re nearly always beautiful (now and again they need a bit of a spruce!). I go back to Bloom every time - the only thing that lets them down is the delivery service they use, which sometimes doesn’t handle flowers as they should!!",
+      "date": "2022-08-05T11:50:00.000Z"
+    },
+    {
+      "stars": 5,
+      "comment": "I am very happy with the service.",
+      "date": "2022-08-03T13:08:00.000Z"
+    },
+    {
+      "stars": 2,
+      "comment": "I've used Bloom a couple of times now and never been disappointed. Flowers are always beautiful and arrive on time.",
+      "date": "2022-08-02T13:08:00.000Z"
+    },
+    {
+      "stars": 3,
+      "comment": "This is my review :)",
+      "date": "2022-08-01T18:32:32.408Z"
+    }
+  ]
+}

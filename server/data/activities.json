@@ -1,0 +1,12 @@
+{
+  "activities": [
+    { "email": "admin", "type": "login", "date": "2022-09-01T18:00:00.000Z" },
+    {
+      "email": "admin",
+      "type": "addToCart",
+      "productName": "Sunny Daisy",
+      "date": "2022-09-02T10:30:00.000Z"
+    },
+    { "email": "admin", "type": "logout", "date": "2022-09-03T14:15:00.000Z" }
+  ]
+}

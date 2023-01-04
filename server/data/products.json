@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "iFYUwYC3NyfnrEUsqzxXLm",
+      "name": "Sunny Daisy",
+      "description": "Yellow bouquet of Daisies",
+      "price": "70",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/CGYD_ALT_V1_preset_proflowers-mx-hero-lv-alt.jpeg?v=1634324509"
+    },
+    {
+      "id": "rBftEHjPWwDTzP9VwVWGxE",
+      "name": "Bold Love",
+      "description": "Bold color and eye catching bouquet",
+      "price": "100",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/TSBD_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1640714423"
+    },
+    {
+      "id": "fheSzyaaUAABAf3fub7ViG",
+      "name": "Royal Tulips",
+      "description": "Purple, pink and white Tulips",
+      "price": "70",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/FT7315_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1644596400"
+    },
+    {
+      "id": "xuxsGhADsmo9wkXXsCuPjG",
+      "name": "White Orchid",
+      "description": "Royalty white Orchid",
+      "price": "100",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/P2162_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1605670991"
+    },
+    {
+      "id": "iGo7N9Zv1NYMakSeV99j6c",
+      "name": "Lily and Rose",
+      "description": "Pink mix of Lilies and Roses",
+      "price": "50",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/C5375D_LOL_INACTIVE_Eday22_preset_proflowers-mx-hero-lv-new.jpeg?v=1641181477"
+    },
+    {
+      "id": "pUjnxBiWVy2AsH38oGgpiu",
+      "name": "Elegant white",
+      "description": "Mix of white impressive flowers",
+      "price": "80",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/S9-4979D_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1657634108"
+    },
+    {
+      "id": "huRnhbm6SzZhzc4gUb7Daj",
+      "name": "Cottagecore Bouquet",
+      "description": "Pretty pastel flowers",
+      "price": "80",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/R5473D_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1644504957"
+    },
+    {
+      "id": "dCzD66tDtzsj81LCWBYhcB",
+      "name": "Elegant Ranunculus",
+      "description": "20 colorful ranunculus blooms",
+      "price": "80",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/MRNA20_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1654207295"
+    },
+    {
+      "id": "55rckTQegke3aV1VfkaFpt",
+      "name": "Mixed Tulips",
+      "description": "15 mixed picnic Tulips",
+      "price": "60",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/FT215_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1644596959"
+    },
+    {
+      "id": "un9ytQpmfFXeaxxSMq9TmG",
+      "name": "Sunkissed Bouquet",
+      "description": "bBooming deluxe bunch of Gerberas",
+      "price": "60",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/FG27_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1647965434"
+    },
+    {
+      "id": "aL9FYYaX3jw8P3bma6kNQ2",
+      "name": "Soft Carnation",
+      "description": "Sweet colors of Carnation and Roses",
+      "price": "60",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/B35D_LOL_preset_proflowers-mx-tile-wide-lv-new.jpeg?v=1647374279"
+    },
+    {
+      "id": "miM6demUzMKrV7mzkTDb2C",
+      "name": "Red Roses",
+      "description": " Bouquet of two dozen roses",
+      "price": "70",
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/504_2120DS_LOL_preset_proflowers-mx-hero-lv-new.jpeg?v=1632916245"
+    }
+  ]
+}
