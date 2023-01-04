@@ -2,7 +2,7 @@
   "name": "final-project",
   "version": "1.0.0",
   "private": true,
-  "proxy": "https://bloom-server-avb1.onrender.com",
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
